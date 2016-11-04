@@ -1,15 +1,3 @@
-/* mobile optimizations */
-@media screen and (max-width: 1020px) {
-  #container, #header, #content, #footer {
-    float: none;
-		display: table;
-    width: auto;
-  }
- #subtitle, #share, #slider, #sidebar {
-    display:none;
-  }
-}
-
 #img_ourwork{
 	height: 500px;
 	border: 1px solid black;
