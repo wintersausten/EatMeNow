@@ -27,6 +27,7 @@ h1{
 .form-center{
 	text-align: center;
 }
+
 .btn-default {
     border-color: #fff;
     color: #222;
@@ -39,5 +40,5 @@ h1{
 .center-div
 {
      margin: 0 auto;
-     width: 100px; 
+     width: 100px;
 }
