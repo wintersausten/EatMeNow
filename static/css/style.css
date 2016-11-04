@@ -5,7 +5,7 @@
  * Project Name: NYC Design
  * Version: 1.0
  * Date: 04-20-2014
- * URL: 
+ * URL:
  */
 
 
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 	top: 0;
 	left: 60px;
 	background-color: #0d0d0d;
-    background-image: url("https://www.transparenttextures.com/patterns/dark-brick-wall.png");  
+    background-image: url("https://www.transparenttextures.com/patterns/dark-brick-wall.png");
 	width: 200px;
 	height: 100%;
 }
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 .menu a > i {
 	float: left;
 	display: inline-block;
-	vertical-align: middle; 
+	vertical-align: middle;
 	text-align: left;
 	width: 25px;
 	font-size: 14px;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #RED {
  color: orangered;
-    
+
 }
 
 .body-push-toright {
@@ -272,8 +272,8 @@ h1, h2, h3, h4, h5, h6 {
 	min-height: 700px;
 	width: 100%;
     /*-webkit-filter: grayscale(95%) blur(4px);*/
-    
-	
+
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 	text-shadow: 2px 2px 2px #000;
     -webkit-filter: blur(0px);
-    
+
 }
 
 /* About Wrap & Conf */
@@ -392,7 +392,7 @@ background-image: url("https://www.transparenttextures.com/patterns/debut-light.
 
 .portfolio {
 	background-image: url(../img/lake.jpg);
-   
+
 }
 
 /* Service Wrap */
@@ -435,24 +435,25 @@ background-image: url("https://www.transparenttextures.com/patterns/debut-light.
 	margin-bottom: 80px;*/
 	/*background-color: #f3f3f3;*/
     background-color: #1a2719;
+    width: 100%;
 /*    background-image: url("https://www.transparenttextures.com/patterns/dark-stripes.png");*/
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 /* Join Wrap */
 #joinwrap {
  background-color: #0d0d0d;
- background-image: url("https://www.transparenttextures.com/patterns/dark-brick-wall.png");  
+ background-image: url("https://www.transparenttextures.com/patterns/dark-brick-wall.png");
  padding-top: 40px;
  padding-bottom: 40px;
  color: whitesmoke;
 }
 
 #joinwrap p {
- color: #f2f2f2;   
+ color: #f2f2f2;
 }
 
 #joinwrap small {
- font-size: 13px;   
+ font-size: 13px;
 }
 
 /* Contact Wrap */
@@ -476,7 +477,7 @@ background-image: url("https://www.transparenttextures.com/patterns/debut-light.
 .contact {
 	background-image: url(../img/bike.jpg);
    /* -webkit-filter: grayscale(85%);*/
-  
+
 }
 
 #contactwrap label {
@@ -506,7 +507,7 @@ background-image: url("https://www.transparenttextures.com/patterns/debut-light.
   -moz-transition: opacity 0.4s;
   -o-transition: opacity 0.4s;
   transition: opacity 0.4s;
-  
+
 }
 
 .project:hover .photo-wrapper {
@@ -555,16 +556,16 @@ background-color: #1a2719;
 }
 
 #customized-button:hover {
- background-color: #ab2200;   
- border-color: #ab2200;    
+ background-color: #ab2200;
+ border-color: #ab2200;
 }
 #NAME {
- color: whitesmoke;    
+ color: whitesmoke;
 }
 
 #team {
  vertical-align: middle;
  margin: auto;
 
-    
+
 }
