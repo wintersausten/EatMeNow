@@ -2,6 +2,7 @@
 @media screen and (max-width: 1020px) {
   #container, #header, #content, #footer {
     float: none;
+		display: table;
     width: auto;
   }
  #subtitle, #share, #slider, #sidebar {
